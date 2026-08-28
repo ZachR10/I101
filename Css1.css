@@ -1,0 +1,22 @@
+.main{color: red;}
+table, th, td {
+    border-width: thin;
+    border-color: black;
+    border-style: solid;
+    border-collapse: collapse;
+}
+
+th{
+    background-color: black;
+    color: white;
+}
+.tableRed{
+    background-color: blueviolet;
+    color: aqua;
+}
+a:link {color: aqua;}
+a:visited {color: purple;}
+a:hover {color: yellow;}
+a:active {color: green}
+
+.pUnderline {text-decoration: underline;}
